@@ -20,7 +20,7 @@ public class EncryptionTest {
      */
     @Test
     public void test04(){
-        StringBuilder stringBuilder = encryption("a1");
+        StringBuilder stringBuilder = encryption("qwed");
         System.out.println(stringBuilder);
     }
 
